@@ -1,2 +1,8 @@
 .idea/
+
+*/__pycache__/*
 .DS_Store
+LIVE/log
+DiffVG/build/
+DiffVG/diffvg.egg-info/
+DiffVG/dist/
